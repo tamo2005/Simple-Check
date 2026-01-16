@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "robust-muse-448207-t8",
+  "private_key_id": "9483c9ff81c40607f885d42e19a6301ecc97e36e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfDDL2BWF/DGPS\nJxXfmEjceMy0cwsPcWhpdG4I4hHLKhO/ED97BgpZ7vW4I9Un7mY3dnoF5CzXVl+i\nuWjudzbXyZDifuWy4yy3xfeDtClZJ1a+WeV+sFCrmlCWCBagqp04vDvuvhGqoVel\ndfcwbWWQk43asOQrzl/pJhlVzlNb1KRphg27kt9m+Jue/DRe8j/D6Z0bxkul9K8O\nxXh77kqTKa7MhuLkTe9aDy2Rzgn1z7yKuCwpHHyPOdxriZZ4TtHGZuLYkiigPBER\nxFxSw9RxS9juB3/RSlxpzxsuTlaeaDfJWxeBn0if/PlAF4oMuMUHb3a8xiQdvbWH\nKO+TnidjAgMBAAECggEAH7NpqMrB/R8jLtKsSq+np2Ip4fm52DOLnfVU0EFlOwVb\nchvakd8daIPMe6PoHzlEYNyfYif4cZCOnh+Q+NeLvWaiB3b2qZKdH+9sitT3zXqI\nWxyGwBdKF+GiU3iJ0sL8/nvOXtO3yhMNVHBsNf9OYJqAHlVm0I0P16C5GBdvhIzz\n8kwA4PE/N/4CajKNWCl8xf9EBozx4nF/Ybx5sJ0MhhuX0dp+gZnFb0oU2acjhEGK\njjLvYOKi3sFYdOUEK8NbLu5bJl+oXvY5TU821EW4tInr5e1+ls4X/lgFKt7Zhgbn\nYa9j522CdFC6Rw7UG8deT1FNO0ilXQ0Gn8KQLDfIwQKBgQD0M4p7II/5XNfHeB4E\nFrrT5CB8IJcQQfnb2EfeEcFgDmFaq2C/ZokhotvheuraYDcCbslDTeYFDKKlsIoK\ntdCjDYx9gLMMth3I88sF04IPlC+T1oKBczLEaeIKEmgs7++zTKm9zCmlHqUylKXZ\nnevpBv7BM/s9Ezz55GthK3UVwQKBgQDp0wObX9k28ittJlU4hXum+p9r00PHMO5y\nw9TI2Lkw2JQAQ3C/deaUmiY5h/+O+HgDLruKMUdSPqhwwaLowg1qwMf6tm+EZEvC\nsegE5brPLUOdcYTXjUb3z43EAWrw6qms29I/EWxoRKq4ZcvxMivM73O7I4Rt7V9x\n6mnlkJOuIwKBgHHAkIFKacZ+uQTxrwm4jM6nNXqcs8Ge+gSuesu2+Z0FFdRmgGqo\nGLjSZBpkZ4HRz84STS5M2xj/CcSkt6jFiKprZUYQ7Va+fqFc7vWH0M3w+Tikc6ZZ\nQwy7Rc/rQxurqLycuXTv5XZFEC6/j4IPThT+bS0SSbXpgD3naR2aYLABAoGBAOan\n8tHtri+mmrIUc1LLUlw4tNS/1geDvGTXy2rJZ33I186euHUWD/ydR4HPJ4lYj8LL\n8dJzpCB8kNqSGWs0KdoaC+vE1aMq8RVBPFjAahR/WUjRt7KOuegxBW7J2z2GrxRG\n0FLIlEETI7m9KX5n+I8z0t1TPwrVcybDj+0WPqgzAoGBAKpYnPwZN2TjP4LMw1v5\nAD6O6dMFadGTMMNT1lJ9sPdfrqqBcsqhLoYM+pr+I07wdFS0wUYXRCquSbZoaI5Z\nE3rdlXDTNVxgLFveZq6TwkGkwRtmRyfJWWdUfFp9iGOOy7uqhUaXukiuJaVhR/6O\n4/E+PMI5Ru3G2A6l2+cJbunQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-ai-user-and-genai@robust-muse-448207-t8.iam.gserviceaccount.com",
+  "client_id": "115234569311630783596",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai-user-and-genai%40robust-muse-448207-t8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

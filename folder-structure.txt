@@ -1,0 +1,34 @@
+|---__pycache__
+|--logs
+|---venv
+|---config
+|   |---__init__.py
+|   |---palm_key.json
+|   |---vision_key.json
+|   |---vertex_ai_key.json
+|---src
+|   |---__init__.py
+|   |---api
+|   |   |---__init__.py
+|   |   |---routes.py
+|   |---ml
+|   |   |---__init__.py
+|   |   |---marks_evaluation.py
+|   |   |---RAG_model.py
+|   |   |---text_extraction.py
+|   |   |---text_processing.py
+|   |---utils
+|   |   |---__init__.py
+|   |   |---logging.py
+|   |   |---document_extractor.py
+|   |   |---gemini_ocr_processor.py
+|   |   |---grammar_checker.py
+|   |   |---image_preprocessor.py
+|   |   |---spelling_corrector.py
+|   |   |---text_processor.py
+|   |   |---vision_handler
+|---RAG-Doc-to-Text.py
+|---app.py
+|---requirments.txt
+|---.gitignore
+|
